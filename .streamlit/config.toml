@@ -1,1 +1,9 @@
 
+# .streamlit/config.toml
+[client]
+# Hide the developer toolbar and its items (Rerun, Settings, Print, Record a screencast, Deploy) on localhost.
+# Values: "auto" | "developer" | "viewer" | "minimal"
+# - "viewer": hide developer options (recommended for your assignment UI)
+# - "minimal": show only menu items explicitly added in st.set_page_config; otherwise hide menu
+toolbarMode = "viewer"
+
