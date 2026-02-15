@@ -32,5 +32,5 @@ Based on review the results.
 | Decision Tree              | Moderate accuracy; tends to overfit compared to ensemble models  |
 | kNN                        | Decent overll results but slightly weak recall,sensitive to distance based patterns |
 | Naive Bayes                | Very high recall but low precision, leading to many false positives | 
-| Random Forest (Ensemble)   | Strong & consistent|performance acress all metrics with good balance |
+| Random Forest (Ensemble)   | Strong & consistent performance acress all metrics with good balance |
 | XGBoost (Ensemble)         | Best overall performer with highest accuracy, AUC & MCC |
